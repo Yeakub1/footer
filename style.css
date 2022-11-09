@@ -1,0 +1,38 @@
+.frist-clm p{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.play-img{
+    width: 60%;
+    margin-top: 10px;
+}
+.second-clm .icon{
+    font-size:40px;
+}
+.second-clm i:hover{
+    transform: scale(1.25);
+    transition: transform .5s ease-out;
+}
+span{
+    opacity: 0.5;   
+}
+.third-clm .main-span{
+   margin-top: 40px;
+   line-height: 30px;   
+}
+.four-clm .distance{
+    margin-top: 20px;
+    opacity: 0.5;  
+    line-height: 10px;
+}
+.payment{
+    margin: auto;
+    margin-top: 10px;
+}
+
+footer p{
+    text-align: center;
+    background-color: #000;
+    height: 70px;
+    padding-top: 20px;
+}
